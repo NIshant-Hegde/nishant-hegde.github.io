@@ -32,7 +32,7 @@ implement BGV and CKKS schemes.
 - Proposed an alternative way of achieving homomorphic data encryption by using autoencoders. Classified
 encrypted data using a custom CNN and achieved 70% accuracy on CIFAR 10 dataset.
 
-![Encryption](/assets/img/Encryption-key.jpeg)
+![Encryption](/assets/img/Encryption-key.webp)
 
 **Summer Intern @ Indian Institute of Technology Delhi (_June 2018 - July 2018_)**
 - Worked under Professor Prem Kalra on the project titled ‘Linguistic Indexing and Automatic Evaluation of
