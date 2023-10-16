@@ -32,6 +32,8 @@ implement BGV and CKKS schemes.
 - Proposed an alternative way of achieving homomorphic data encryption by using autoencoders. Classified
 encrypted data using a custom CNN and achieved 70% accuracy on CIFAR 10 dataset.
 
+![Encryption](/assets/img/Encryption-key.jpeg)
+
 **Summer Intern @ Indian Institute of Technology Delhi (_June 2018 - July 2018_)**
 - Worked under Professor Prem Kalra on the project titled ‘Linguistic Indexing and Automatic Evaluation of
 Crowdsourced Data’
@@ -39,6 +41,8 @@ Crowdsourced Data’
 the digital museum project.
 - Trained and fine-tuned YOLOv3 and MobileNet models to caption Dravidan temples. Scaled the model to
 recognize and caption different temple architectures.
+
+![Heritage Site Annotation](/assets/img/DravidanTemple.jpeg)
 
 ## Projects
 ### Pedestrian Tracking and Analytics
