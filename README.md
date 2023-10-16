@@ -50,7 +50,7 @@ confidence track filter and a novel ’last seen area’ filter. Deployed the mo
 - Outperformed the state-of-the-art DeepSort tracker, improving multi-object tracking accuracy and
 multi-object tracking precision by 3%.
 
-![EEG Band Discovery](/assets/img/PedestrianTracking.jpeg)
+![Pedestrian Tracking and Analytics](/assets/img/PedestrianTracking.jpeg)
 
 ### Behaviorial Biometrics based User Authentication
 - Developed a custom deep learning model to recognize and distinguish behavioral biometrics, specifically
@@ -60,4 +60,4 @@ temporal data from both calibrated and uncalibrated sensors by performing Explor
 - Trained and fine-tuned customized LeNet architecture on prepped dataset and achieved a rank 3 accuracy of
 73%.
 
-![Bike Study](/assets/img/Behavioralbiometrics.jpeg)
+![Behavioral Biometrics](/assets/img/Behavioralbiometrics.jpeg)
