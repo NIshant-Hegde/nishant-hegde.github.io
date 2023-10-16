@@ -4,7 +4,7 @@
 #### Technologies/Frameworks: Pytorch, Tensorflow, OpenCV, Keras
 
 ## Education
-- B.E., Electronics and Communication | KLE Technological University at Hubli (_August 2016 - June 2020_)
+B.E., Electronics and Communication | KLE Technological University at Hubli (_August 2016 - June 2020_)
 
 ## Industrial Experience
 **Software Engineer @ Toshiba Software India Pvt Ltd (_August 2020 - Present_)**
