@@ -23,7 +23,7 @@ highly complex, high density test video clips.
 ## Research Experience
 **Project Trainee @ Samsung Research Institute(_August 2018 - May 2019_)**
 - Collaborated with the Samsung R&D Institute India-Bangalore (SRIB) on the project tilted
-’Crypto-Nets:Neural Networks over Encrypted Data’ to develop and implement machine learning models
+’Cryptographic Neural Nets on Homomorphically Encrypted Data’ to develop and implement machine learning models
 capable of training on encrypted data to enhance data privacy and security while still enabling advanced
 machine learning applications.
 - Experimented with different homomorphic encryption schemes such as Brakerski-Gentry-Vaikuntanathan
